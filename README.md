@@ -9,8 +9,11 @@ PetMart is an online pet trading app designed for the iOS platform. It aims to p
 
 ## Language and Tools
 **Language**: Dart
+
 **Frontend**: Flutter
+
 **Backend**: Firebase
+
 
 
 ## App demonstration walkthrough
