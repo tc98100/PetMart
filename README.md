@@ -1,6 +1,6 @@
 # PetMart Project
 
-*(Note: this is a backup of the original project which is on Bitbucket)*
+*(Note: This is a backup of the original project which is on Bitbucket)*
 
 
 ## Project Desctiption
@@ -12,7 +12,7 @@ PetMart is an online pet trading app designed for the iOS platform. It aims to p
 
 **Frontend**: Flutter
 
-**Backend**: Firebase
+**Backend**: Firebase (Auth, Firestore, Storage)
 
 
 
