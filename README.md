@@ -16,7 +16,7 @@ PetMart is an online pet trading app designed for the iOS platform. It aims to p
 
 
 
-## App demonstration walkthrough
+## App demonstration and walkthrough
 ![](./pictures/User1SignUp.png)
 ---
 ![](./pictures/User2Login.png)
