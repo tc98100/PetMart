@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>899331124713-86o2te7hmke5n51f3mepqg28bkd6uvnt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.899331124713-86o2te7hmke5n51f3mepqg28bkd6uvnt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDeyLHZirkaBgfxt-UkKzWHxLp_VHzJ3zc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>899331124713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.petsearchApp</string>
+	<key>PROJECT_ID</key>
+	<string>pet-research-43059</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pet-research-43059.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:899331124713:ios:cd7529bd81002fdc006f78</string>
+	<key>DATABASE_URL</key>
+	<string>https://pet-research-43059.firebaseio.com</string>
+</dict>
+</plist>
